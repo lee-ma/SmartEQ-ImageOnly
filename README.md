@@ -8,3 +8,11 @@ source venv/bin/activate
 pip install -r requirments.txt
 ```
 
+
+For the React frontend
+
+```
+cd frontend
+npm i
+npm start
+```
